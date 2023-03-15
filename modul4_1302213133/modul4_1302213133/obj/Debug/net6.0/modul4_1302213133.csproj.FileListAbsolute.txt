@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\bin\Debug\net6.0\modul4_1302213133.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\bin\Debug\net6.0\modul4_1302213133.deps.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\bin\Debug\net6.0\modul4_1302213133.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\bin\Debug\net6.0\modul4_1302213133.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\bin\Debug\net6.0\modul4_1302213133.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\refint\modul4_1302213133.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\modul4_1302213133.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302213133\modul4_1302213133\modul4_1302213133\obj\Debug\net6.0\ref\modul4_1302213133.dll
